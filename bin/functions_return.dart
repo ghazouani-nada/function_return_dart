@@ -12,7 +12,7 @@ main(List<String> arguments) {
 //}
 
 //function de type de retour entier
-int foodSZalary() => 100;
+int foodSalary() => 100;
   //int foodSalary(){
   //  return 100;
   //}
