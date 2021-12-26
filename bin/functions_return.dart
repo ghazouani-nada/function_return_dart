@@ -12,15 +12,14 @@ main(List<String> arguments) {
 //}
 
 //function de type de retour entier
-  int foodSalary(){
-    int x=100;
-    return x+5;
-  }
+int foodSZalary() => 100;
+  //int foodSalary(){
+  //  return 100;
+  //}
 
 
 //function de type de retour double
   double gymSalary() => 155.5;
-
  //double gymSalary(){
  // return 155.5;
 //}
